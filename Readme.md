@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpressMvcSchedulerEditable/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcSchedulerEditable/Controllers/HomeController.vb))
+* [EFAppointment.cs](./CS/DevExpressMvcSchedulerEditable/Models/EFAppointment.cs) (VB: [EFAppointment.vb](./VB/DevExpressMvcSchedulerEditable/Models/EFAppointment.vb))
+* [EFResource.cs](./CS/DevExpressMvcSchedulerEditable/Models/EFResource.cs) (VB: [EFResource.vb](./VB/DevExpressMvcSchedulerEditable/Models/EFResource.vb))
+* [SchedulerContext.cs](./CS/DevExpressMvcSchedulerEditable/Models/SchedulerContext.cs) (VB: [SchedulerContext.vb](./VB/DevExpressMvcSchedulerEditable/Models/SchedulerContext.vb))
+* [SchedulerDataHelper.cs](./CS/DevExpressMvcSchedulerEditable/Models/SchedulerDataHelper.cs) (VB: [SchedulerDataHelper.vb](./VB/DevExpressMvcSchedulerEditable/Models/SchedulerDataHelper.vb))
+* [SchedulerSettingsHelper.cs](./CS/DevExpressMvcSchedulerEditable/Models/SchedulerSettingsHelper.cs) (VB: [SchedulerSettingsHelper.vb](./VB/DevExpressMvcSchedulerEditable/Models/SchedulerSettingsHelper.vb))
+* [Index.cshtml](./CS/DevExpressMvcSchedulerEditable/Views/Home/Index.cshtml)
+* [SchedulerPartial.cshtml](./CS/DevExpressMvcSchedulerEditable/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # How to bind Scheduler to data using Entity Framework CodeFirst and MS SQL CE server
 
 
